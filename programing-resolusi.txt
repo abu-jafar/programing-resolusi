@@ -3,4 +3,4 @@ Programing Resolusi
 - Membuat Platform pengelolaan Video.
 - Membuat Forum Diskusi
 - Membuat Merch Shop
-- Kolaborasi
+- Membuat Vlog
