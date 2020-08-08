@@ -1,2 +1,2 @@
 # programing-resolusi
-Rencana untuk menyimpan rencana kedepan
+Project untuk menyimpan rencana kedepan
